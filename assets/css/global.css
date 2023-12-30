@@ -1,0 +1,79 @@
+.screen-height {
+    height: 100vh;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.btn-primary {
+    background-color: #00ADB5 !important;
+    border: 1px solid #00ADB5 !important;
+    transition: all 0.5s ease;
+}
+
+.btn-primary:hover {
+    background-color: #FFFFFF !important;
+    border: 1px solid #00ADB5 !important;
+    color: black !important;
+}
+
+.btn-secondary {
+    background-color: #F4CE14 !important;
+    border: 1px solid #F4CE14 !important;
+    transition: all 0.5s ease;
+}
+
+.btn-secondary:hover {
+    background-color: #FFFFFF !important;
+    border: 1px solid #F4CE14 !important;
+}
+
+.btn-red {
+    background-color: #B80000 !important;
+    border: 1px solid #B80000 !important;
+    transition: all 0.5s ease;
+}
+
+.btn-red:hover {
+    background-color: #FFFFFF !important;
+    border: 1px solid #B80000 !important;
+    color: black !important;
+}
+
+.bg-primary {
+    background-color: #00ADB5 !important;
+}
+
+.bg-secondary {
+    background-color: #F4CE14 !important;
+}
+
+.bg-red {
+    background-color: #B80000 !important;
+}
+
+.link {
+    text-decoration: none !important;
+}
+
+.linked {
+    text-decoration: none !important;
+    color: black;
+}
+
+.truncate {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.truncate-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
